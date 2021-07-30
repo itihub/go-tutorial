@@ -6,6 +6,8 @@
 | --- | --- |
 | getting-started | https://golang.org/doc/tutorial/getting-started.html |    
 | create-module | https://golang.org/doc/tutorial/create-module.html |  
+| database-access | https://golang.org/doc/tutorial/database-access |  
+| web-service-gin | https://golang.org/doc/tutorial/web-service-gin |  
 
 ## 总结  
 ### go module  
